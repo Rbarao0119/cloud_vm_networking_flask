@@ -20,7 +20,7 @@
 ![Flask_run](images/flask.png)
 
 ### 5. Public IP Access
-- URL: 
+- URL: https://34.66.153.106/:5003
 ![Public_URL](images/public.png)
 
 
