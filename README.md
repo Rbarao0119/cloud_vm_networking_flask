@@ -8,20 +8,20 @@
 ## Steps
 
 ### 1. VM Creation
-- {screenshot}
+![VM_created](images/vm_creation.png)
 
 ### 2. Networking (Port 5003 Open) 
-- {screenshot}
+![Port_5003](images/firewall.png)
 
 ### 3. OS Update + Python Install 
-- {commands + screenshot}
+![Python_install](images/python_install.png)
 
 ### 4. Flask App Running 
-- {screenshot of terminal + browser}
+![Flask_run](images/flask.png)
 
 ### 5. Public IP Access
 - URL: 
-    - {screenshot}
+![Public_URL](images/public.png)
 
 
 
